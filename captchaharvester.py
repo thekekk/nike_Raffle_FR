@@ -19,7 +19,7 @@ repeatTime = '17:30' #end of the loop
 CaptchaList = []
 active_threads = 0
 sitekey = '6LfYhz0UAAAAAJFKp28Sg0NnAEIPMfKI1RJSGsdB'  # 6LeWwRkUAAAAAOBsau7KpuC9AV-6J8mhw4AjC3Xz
-API_KEY = '272515fefa8031163885b8c1b32a871c' # ENTER YOUR API KEY
+API_KEY = '' # ENTER YOUR API KEY
 captcha_url = 'https://slamjamsocialism-drops.com/drops/9/' # https://api.sneakers-raffle.fr/submit
 headers = {
         'host':   'www.supremenewyork.com',
